@@ -18,3 +18,13 @@ Tests : `tests/test_anti_doublon_youtube_v4.py` → 7 passed (02/11).
 - 2026-11-01 — Pisciculture : pourquoi vos poissons mangent moins ?
 - 2026-10-31 — Fabrication de provende
 - 2026-10-31 — Élevage de pintades
+
+## Vidéos prêtes dans le dépôt (format v3)
+Format v3 = sous-titres karaoké sans bandeau, hook en ouverture, CTA WhatsApp + lien dans la bio.
+
+| Fichier | Sujet | Durée | Poids | État |
+|---|---|---|---|---|
+| `Provende_V3.mp4` | Provende — tourteau de soja / tournesol | 28,4 s | 2,9 Mo | prête, non publiée |
+| `Canard_V3.mp4` | Canard — eau profonde / rentabilité | 31,6 s | 3,3 Mo | prête, non publiée |
+
+Retirées le 03/11 : `Provende_FINAL.mp4`, `Canard_FINAL.mp4` (anciennes versions à ruban noir).
