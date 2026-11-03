@@ -7,6 +7,10 @@ Playlist uploads : `UU6erova2zzhtBugC0mkMx0w`
 |---|---|---|---|---|
 | 2026-11-02T18:56:49Z | Tilapia_SEXE | Vos tilapias restent petits ? Le secret que personne ne dit | `SSfALp1RhJs` | public |
 | 2026-11-03T06:30:00Z (programmé) | Pondeuses_SECRETS | Vos poules pondent moins ? 4 réglages qui changent tout | `4BTWEb8ymQQ` | private → public auto |
+| 2026-11-03T11:45:00Z (programmé) | Plantes_V3 | Le vétérinaire est loin : 3 plantes qui soignent vos poulets | `8aSvmlLs8yI` | private → public auto |
+| 2026-11-03T18:00:00Z (programmé) | Commerce_V3 | Vendez vos poulets au premier venu ? Voilà ce que ça vous coûte | `pmq01PKILC4` | private → public auto |
+| 2026-11-04T06:35:00Z (programmé) | Poulet_V3 | 45 jours pour gagner : les 3 erreurs qui tuent votre poulet de chair | `9TRFms6zcwY` | private → public auto |
+| 2026-11-04T11:32:00Z (programmé) | Business_V3 | 300 m², 5 élevages rentables : lapins, escargots, abeilles | `cuZVFhQefMQ` | private → public auto |
 
 ## Anti-doublon
 Le garde-fou ne dépend **pas** de ce registre : `youtube_deja_publie()` interroge la
