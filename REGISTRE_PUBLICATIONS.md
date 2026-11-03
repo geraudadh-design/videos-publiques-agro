@@ -27,4 +27,7 @@ Format v3 = sous-titres karaoké sans bandeau, hook en ouverture, CTA WhatsApp +
 | `Provende_V3.mp4` | Provende — tourteau de soja / tournesol | 28,4 s | 2,9 Mo | prête, non publiée |
 | `Canard_V3.mp4` | Canard — eau profonde / rentabilité | 31,6 s | 3,3 Mo | prête, non publiée |
 
+| `Plantes_V3.mp4` | Plantes médicinales — papaye, ail, moringa | 25,5 s | 2,0 Mo | prête, non publiée |
+| `Commerce_V3.mp4` | Commercialisation — vendre au vrai prix | 26,5 s | 2,1 Mo | prête, non publiée |
+
 Retirées le 03/11 : `Provende_FINAL.mp4`, `Canard_FINAL.mp4` (anciennes versions à ruban noir).
