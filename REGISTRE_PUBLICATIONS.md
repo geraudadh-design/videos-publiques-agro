@@ -30,4 +30,7 @@ Format v3 = sous-titres karaoké sans bandeau, hook en ouverture, CTA WhatsApp +
 | `Plantes_V3.mp4` | Plantes médicinales — papaye, ail, moringa | 25,5 s | 2,0 Mo | prête, non publiée |
 | `Commerce_V3.mp4` | Commercialisation — vendre au vrai prix | 26,5 s | 2,1 Mo | prête, non publiée |
 
+| `Poulet_V3.mp4` | Poulet de chair — 45 jours, 32 °C | 28,2 s | 2,5 Mo | prête, non publiée |
+| `Business_V3.mp4` | Idées business — 5 élevages sur 300 m² | 27,9 s | 2,3 Mo | prête, non publiée |
+
 Retirées le 03/11 : `Provende_FINAL.mp4`, `Canard_FINAL.mp4` (anciennes versions à ruban noir).
